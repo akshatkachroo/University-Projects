@@ -18,10 +18,7 @@ int main() {
           stair = i-1;
       }
     }
-   // TASK: write code that calculates an integer value
-    // corresponding to the value of the function stair( x ) here
-
-    std::cout << "The value of stair(x) is: ";
+     std::cout << "The value of stair(x) is: ";
     std::cout << stair << std::endl;
     return 0;
 }
